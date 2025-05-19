@@ -68,7 +68,9 @@ jobs:
           restore-keys: ${{ runner.os }}-m2
       #Analyze project with SonarCloud
       - name: Analyze with SonarCloud
-        run: mvn -B verify sonar:sonar -Dsonar.projectKey=David-Gomez49_Lab2Fake -Dsonar.organization=-Dsonar.organization=david-gomez49 
+        run: mvn -B verify sonar:sonar -Dsonar.projectKey=David-Gomez49_Lab2Fake -Dsonar.organization=david-gomez49
+
+
 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

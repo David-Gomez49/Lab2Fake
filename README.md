@@ -1,13 +1,16 @@
-[![CI/CD Pipeline](https://github.com/diegobotia/labfake/actions/workflows/build.yml/badge.svg)](https://github.com/diegobotia/labfake/actions/workflows/build.yml)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=diegobotia_labfake&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=diegobotia_labfake)
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=diegobotia_labfake&metric=bugs)](https://sonarcloud.io/summary/new_code?id=diegobotia_labfake)
-[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=diegobotia_labfake&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=diegobotia_labfake)
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=diegobotia_labfake&metric=coverage)](https://sonarcloud.io/summary/new_code?id=diegobotia_labfake)
-[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=diegobotia_labfake&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=diegobotia_labfake)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=diegobotia_labfake&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=diegobotia_labfake)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=diegobotia_labfake&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=diegobotia_labfake)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=diegobotia_labfake&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=diegobotia_labfake)
-[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=diegobotia_labfake&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=diegobotia_labfake)
+[![CI/CD Pipeline](https://github.com/David-Gomez49/Lab2Fake/actions/workflows/build.yml/badge.svg)](https://github.com/David-Gomez49/Lab2Fake/actions/workflows/build.yml)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=David-Gomez49_Lab2Fake&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=David-Gomez49_Lab2Fake)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=David-Gomez49_Lab2Fake&metric=bugs)](https://sonarcloud.io/summary/new_code?id=David-Gomez49_Lab2Fake)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=David-Gomez49_Lab2Fake&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=David-Gomez49_Lab2Fake)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=David-Gomez49_Lab2Fake&metric=coverage)](https://sonarcloud.io/summary/new_code?id=David-Gomez49_Lab2Fake)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=David-Gomez49_Lab2Fake&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=David-Gomez49_Lab2Fake)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=David-Gomez49_Lab2Fake&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=David-Gomez49_Lab2Fake)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=David-Gomez49_Lab2Fake&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=David-Gomez49_Lab2Fake)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=David-Gomez49_Lab2Fake&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=David-Gomez49_Lab2Fake)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=David-Gomez49_Lab2Fake&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=David-Gomez49_Lab2Fake)
+
+
+[![Coverage Status](https://coveralls.io/repos/github/David-Gomez49/Lab2Fake/badge.svg)](https://coveralls.io/github/David-Gomez49/Lab2Fake)
 
 * Implementation of a Simple App with the next operations:
 

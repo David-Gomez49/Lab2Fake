@@ -132,4 +132,4 @@ jobs:
     steps:
       - name: Call Render Deploy Hook
         run: |
-          curl -X POST https://api.render.com/deploy/srv-d0lpkgmmcj7s738778dg?key=N9n7ZkHicHU
+          curl -X POST "https://api.render.com/deploy/srv-d0lpkgmmcj7s738778dg?key=${{ secrets.RENDER_DEPLOY_KEY }}"

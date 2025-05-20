@@ -10,7 +10,7 @@
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=David-Gomez49_Lab2Fake&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=David-Gomez49_Lab2Fake)
 
 
-[![Coverage Status](https://coveralls.io/repos/github/David-Gomez49/Lab2Fake/badge.svg)](https://coveralls.io/github/David-Gomez49/Lab2Fake)
+[![Coverage Status](https://coveralls.io/repos/github/David-Gomez49/Lab2Fake/badge.svg?branch=0e37ff4768563cd4c27e882ebd71a1dc2386c65f)](https://coveralls.io/github/David-Gomez49/Lab2Fake?branch=0e37ff4768563cd4c27e882ebd71a1dc2386c65f)
 
 * Implementation of a Simple App with the next operations:
 

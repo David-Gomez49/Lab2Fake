@@ -61,7 +61,6 @@
 							<goal>prepare-agent</goal>
 						</goals>
 					</execution>
-					<!-- attached to Maven test phase -->
 					<execution>
 						<id>report</id>
 						<phase>test</phase>
@@ -70,6 +69,11 @@
 						</goals>
 					</execution>
 				</executions>
+			</plugin>
+			<plugin>
+				<groupId>org.eluder.coveralls</groupId>
+				<artifactId>coveralls-maven-plugin</artifactId>
+				<version>4.3.0</version>
 			</plugin>
 
 
